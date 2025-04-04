@@ -52,20 +52,20 @@ paths:
       parameters:
         - name: marca
           in: query
-          description: Numero da página
+          description: Marca do veículo
           required: false
           schema:
             type: string
         - name: ano
           in: query
-          description: Tamanho de dados que será trazido por página
+          description: Ano de fabricação
           required: false
           schema:
             type: integer
             default: 0
         - name: cor
           in: query
-          description: Ordena a lista em crescente e descrecente
+          description: Cor do automóvel
           required: false
           schema:
             type: string
