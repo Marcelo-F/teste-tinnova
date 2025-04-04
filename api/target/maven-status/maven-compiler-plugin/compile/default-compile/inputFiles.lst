@@ -1,0 +1,17 @@
+/home/x/Downloads/api/src/main/java/com/tinnova/api/entity/VeiculoEntity.java
+/home/x/Downloads/api/src/main/java/com/tinnova/api/ApiApplication.java
+/home/x/Downloads/api/src/main/java/com/tinnova/api/service/ServiceVeiculo.java
+/home/x/Downloads/api/target/generated-sources/openapi/src/main/java/com/tinnova/model/Error.java
+/home/x/Downloads/api/target/generated-sources/openapi/src/main/java/com/tinnova/model/ModelApiResponse.java
+/home/x/Downloads/api/src/main/java/com/tinnova/api/controller/Controller.java
+/home/x/Downloads/api/src/main/java/com/tinnova/api/log/BadRequestException.java
+/home/x/Downloads/api/target/generated-sources/openapi/src/main/java/com/tinnova/model/VeiculoSalvo.java
+/home/x/Downloads/api/src/main/java/com/tinnova/api/util/ValidaString.java
+/home/x/Downloads/api/target/generated-sources/openapi/src/main/java/com/tinnova/model/TodosVeiculosPaginado.java
+/home/x/Downloads/api/src/main/java/com/tinnova/api/mapper/MapeaVeiculo.java
+/home/x/Downloads/api/target/generated-sources/openapi/src/main/java/com/tinnova/api/VeiculoApi.java
+/home/x/Downloads/api/target/generated-sources/openapi/src/main/java/com/tinnova/model/Veiculo.java
+/home/x/Downloads/api/src/main/java/com/tinnova/api/repository/VeiculoRepository.java
+/home/x/Downloads/api/target/generated-sources/openapi/src/main/java/com/tinnova/api/ApiUtil.java
+/home/x/Downloads/api/target/generated-sources/openapi/src/main/java/com/tinnova/model/VeiculoPatch.java
+/home/x/Downloads/api/src/main/java/com/tinnova/api/log/NotFoundException.java

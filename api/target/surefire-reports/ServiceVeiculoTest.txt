@@ -1,0 +1,39 @@
+-------------------------------------------------------------------------------
+Test set: ServiceVeiculoTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.082 s <<< FAILURE! -- in ServiceVeiculoTest
+ServiceVeiculoTest.testSave -- Time elapsed: 0.028 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.tinnova.api.service.ServiceVeiculo.save(com.tinnova.model.Veiculo)" because "this.serviceVeiculo" is null
+	at ServiceVeiculoTest.testSave(ServiceVeiculoTest.java:46)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+ServiceVeiculoTest.testAtualizaVeiculo_Exists -- Time elapsed: 0.003 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.tinnova.api.service.ServiceVeiculo.save(com.tinnova.model.Veiculo)" because "this.serviceVeiculo" is null
+	at ServiceVeiculoTest.testSave(ServiceVeiculoTest.java:46)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+ServiceVeiculoTest.testDeletarVeiculoPorId_Exists -- Time elapsed: 0.002 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.tinnova.api.service.ServiceVeiculo.save(com.tinnova.model.Veiculo)" because "this.serviceVeiculo" is null
+	at ServiceVeiculoTest.testSave(ServiceVeiculoTest.java:46)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+ServiceVeiculoTest.testDeletarVeiculoPorId_NotFound -- Time elapsed: 0.002 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.tinnova.api.service.ServiceVeiculo.save(com.tinnova.model.Veiculo)" because "this.serviceVeiculo" is null
+	at ServiceVeiculoTest.testSave(ServiceVeiculoTest.java:46)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+ServiceVeiculoTest.testAtualizaVeiculo_NotFound -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.tinnova.api.service.ServiceVeiculo.save(com.tinnova.model.Veiculo)" because "this.serviceVeiculo" is null
+	at ServiceVeiculoTest.testSave(ServiceVeiculoTest.java:46)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

@@ -1,0 +1,17 @@
+com/tinnova/model/VeiculoPatch.class
+com/tinnova/api/entity/VeiculoEntity.class
+com/tinnova/api/util/ValidaString.class
+com/tinnova/model/ModelApiResponse.class
+com/tinnova/model/TodosVeiculosPaginado.class
+com/tinnova/api/log/BadRequestException.class
+com/tinnova/api/ApiUtil.class
+com/tinnova/api/log/NotFoundException.class
+com/tinnova/api/controller/Controller.class
+com/tinnova/api/repository/VeiculoRepository.class
+com/tinnova/api/ApiApplication.class
+com/tinnova/model/Veiculo.class
+com/tinnova/api/mapper/MapeaVeiculo.class
+com/tinnova/model/Error.class
+com/tinnova/api/service/ServiceVeiculo.class
+com/tinnova/model/VeiculoSalvo.class
+com/tinnova/api/VeiculoApi.class
